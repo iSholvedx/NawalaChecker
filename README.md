@@ -5,20 +5,20 @@ This tool helps developers, network administrators, and researchers quickly veri
 
 The program is built using Python and utilizes the requests module to perform HTTP requests efficiently.
 
-#🚀 Features
+# 🚀 Features
 - Check if a website is blocked by Nawala (Indonesia)
 - Lightweight and easy to use
 - Written in Python
 - Uses the requests module
 - Suitable for automation or manual checks
 
-#🧰 Requirements
+# 🧰 Requirements
 Before running this tool, make sure you have the following installed:
 - Python 3.7 or newer
 - pip (Python package manager)
 - Internet connection
 
-#⚙️ Installation & Setup
+# ⚙️ Installation & Setup
 Follow these steps to set up and run Nawala Checker:
 ```
 git clone https://github.com/iSholvedx/NawalaChecker.git
